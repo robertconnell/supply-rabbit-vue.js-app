@@ -1,3 +1,5 @@
+![](https://www.allongeorgia.com/wp-content/uploads/2018/07/school-supplies.jpg)
+
 Supply Rabbit  - A solution for teachers need supplies in the classroom.
 Deployed links:
 Frontend - supply-rabbit-96c3e.firebaseapp.com
@@ -12,7 +14,7 @@ Elevator pitch
 Supply Rabbit is an application where school teachers can request help to obtain the materials they need to make projects in their classes and where people can donate these materials.
 Collaborators:
 Matthew Riach
-Robert Connell
+Robert Connell - robertjconnell213@gmail.com
 Matt Huston
 Belinda Galiano
 Instructions
@@ -40,3 +42,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## License
+
+Copyright 2018 - Supply Rabbit
